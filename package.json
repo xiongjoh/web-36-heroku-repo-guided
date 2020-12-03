@@ -1,0 +1,30 @@
+{
+  "name": "web-36-heroku-repo-guided",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiongjoh/web-36-heroku-repo-guided.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiongjoh/web-36-heroku-repo-guided/issues"
+  },
+  "homepage": "https://github.com/xiongjoh/web-36-heroku-repo-guided#readme"
+}
