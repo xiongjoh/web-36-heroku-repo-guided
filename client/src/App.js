@@ -8,7 +8,7 @@ import './App.css';
 
 function url(path) {
   return process.env.NODE_ENV === 'development'
-  ? `http://localhost:5000${[path]}`
+  ? `http://localhost:5000${path}`
   : path
 
 }
